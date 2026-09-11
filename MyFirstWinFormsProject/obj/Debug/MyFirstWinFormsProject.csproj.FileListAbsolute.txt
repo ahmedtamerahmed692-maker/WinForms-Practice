@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe.config
+C:\Users\hp\source\repos\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe
+C:\Users\hp\source\repos\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.pdb
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form1.resources
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.pdb
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMain.resources
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmessageBoxForm.resources
+C:\Users\hp\source\repos\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe.config
